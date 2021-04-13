@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=0.9.4
+Name=Uninstall Arduino_Create_Bridge
+Comment=Uninstall
+Icon=
+Exec=/home/stotz.basil/ArduinoCreateAgent-1.1/uninstall
+Terminal=false
+Path=/home/stotz.basil/ArduinoCreateAgent-1.1
